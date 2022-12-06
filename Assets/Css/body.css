@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+
+/*
+img {
+  width: 100%;
+}
+*/
+
+body {
+  background: #e1e2e6;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+  #body_Login{
+    background-color: #61789a;
+  }
+
+  #body_aceite{
+    background-color:#82abe7;
+  }
+  
